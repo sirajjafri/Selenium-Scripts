@@ -2,40 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="39" started-at="2018-02-25T07:56:01Z" finished-at="2018-02-25T07:56:02Z">
+  <suite name="Default suite" duration-ms="69" started-at="2018-02-27T02:16:30Z" finished-at="2018-02-27T02:16:30Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="39" started-at="2018-02-25T07:56:01Z" finished-at="2018-02-25T07:56:02Z">
-      <class name="com.qa.test.DemoTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="beforeClass" is-config="true" duration-ms="10" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="first()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="first" duration-ms="6" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
+    <test name="Default test" duration-ms="69" started-at="2018-02-27T02:16:30Z" finished-at="2018-02-27T02:16:30Z">
+      <class name="com.qa.test.WelcomeClass">
+        <test-method status="PASS" signature="first()[pri:0, instance:com.qa.test.WelcomeClass@28feb3fa]" name="first" duration-ms="22" started-at="2018-02-27T02:16:30Z" finished-at="2018-02-27T02:16:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- first -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.qa.test.DemoTest@6767c1fc]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-02-25T13:26:02Z" finished-at="2018-02-25T13:26:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterSuite -->
-      </class> <!-- com.qa.test.DemoTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- com.qa.test.WelcomeClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -5,6 +5,7 @@
     <classes>
       <class name="com.qa.test.HelloWorldTest"/>
       <class name="com.qa.test.DemoTest"/>
+         <class name="com.qa.test.WelcomeClass"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
