@@ -5,6 +5,6 @@ public class WelcomeClass {
 	@Test
     public void first ()
     {
-       System.out.println("Welcome to Maven test siraj");
+       System.out.println("Welcome to Maven test siraj123");
     }
 }
